@@ -1,0 +1,6 @@
+body{ font-family: system-ui, Arial; margin:0; padding:0; background:#fff7fb; color:#333 }
+.header{ background:#ffdce6; padding:12px 20px; display:flex; justify-content:space-between; align-items:center }
+.container{ padding:20px }
+.grid{ display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:12px; margin-top:12px }
+.card{ background:white; padding:12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.06) }
+button{ background:#ff69b4; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer }
